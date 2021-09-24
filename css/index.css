@@ -1,0 +1,13 @@
+@import url(value.css);
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/*-_-_-_-_-_-_-RESPONSIVITE_-_-_-_-_-_-_-_*/
+
+@media only screen and (max-width: 1080px) {}
+
+
+/*-_-_-_-_-_-_-RESPONSIVITE END_-_-_-_-_-_-_-_*/

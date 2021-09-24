@@ -1,0 +1,11 @@
+:root {
+    /*-_-_-_-_-_-_COLOR-_-_-_-_-*/
+    --white: rgb(255, 255, 255);
+    /*-_-_-_-_-_-_COLOR END-_-_-_-_-*/
+    /*-_-_-_-_-_-_GRADIENT-_-_-_-_-_-_*/
+    --wbGradient: linear-gradient(to right, var(--white), var(--dark));
+    /*-_-_-_-_-_-_GRADIENT END-_-_-_-_-_-_*/
+    /*-_-_-_-_-_-_SHADOW-_-_-_-_-_-_*/
+    --shadow: 0px 15px 20px rgba(0, 0, 0, 0.2);
+    /*-_-_-_-_-_-_SHADOW END-_-_-_-_-_-_*/
+}
